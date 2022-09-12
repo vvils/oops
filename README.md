@@ -1,2 +1,0 @@
-# coursera-thing
-Coursera example
